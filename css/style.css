@@ -74,7 +74,7 @@ td {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: 0.05em;
-  color: #333;
+  color: #797979;
 }
 
 .lead {
@@ -204,7 +204,7 @@ td {
   padding: 0 0.5em;
   line-height: 1.5em;
   color: #818078;
-  background-color: #333;
+  background-color: #3c3c3c;
 }
 
 /*--------------------------------
@@ -425,6 +425,11 @@ td {
 
   .inner {
     padding: 0 20px;
+  }
+
+  .black-inner {
+    padding: 0 20px;
+    background-color: #3c3c3c;
   }
 
   /* ヘッダー */
