@@ -1,0 +1,1 @@
+# mashita1023.github.io
